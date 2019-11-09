@@ -1,0 +1,22 @@
+/home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/linux/linux-5.3/tools/perf/feature/test-fortify-source.bin: \
+ test-fortify-source.c \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/stdc-predef.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/stdio.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/libc-header-start.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/features.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/sys/cdefs.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/wordsize.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/long-double.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/gnu/stubs.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/gnu/stubs-lp64.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/lib/gcc/aarch64-linux-gnu/7.4.1/include/stddef.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/types.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/typesizes.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/libio.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/_G_config.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/wchar.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/lib/gcc/aarch64-linux-gnu/7.4.1/include/stdarg.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/stdio_lim.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/sys_errlist.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/stdio.h \
+ /home/linux/arm64_qemu/BiscuitOS/output/linux-5.3-aarch/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/stdio2.h

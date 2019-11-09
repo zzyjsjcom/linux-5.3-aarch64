@@ -1,0 +1,4 @@
+test-libelf-gelf_getnote.c:3:10: fatal error: gelf.h: No such file or directory
+ #include <gelf.h>
+          ^~~~~~~~
+compilation terminated.
